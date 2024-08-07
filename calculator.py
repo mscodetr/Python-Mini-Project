@@ -21,7 +21,7 @@ def buttonEqual():
     operator = ''
     input_value.set(result)
     
-operstor = ''
+operator = ''
 input_value = StringVar()
 display_text = Entry(main, font= ('arial',20,'bold'),textvariable= input_value,bd=30,insertwidth=4,bg='powder blue', justify = RIGHT)
 
